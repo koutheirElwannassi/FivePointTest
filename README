@@ -3,6 +3,7 @@
 1. Install NodeJS and npm
 2. Execute 'npm install -d' to create the node_modules folder from package.json
 3. Run program 'node app.js'
+4.Acces localhost:8080
 
 on a utilisé nodejs parceque il est le plus compatible avec les application qui communiquent en temps reel
 Nodejs est non bloquant donc chaque event est servi au moment de son arrivage
